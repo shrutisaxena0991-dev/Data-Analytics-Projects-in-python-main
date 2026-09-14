@@ -307,10 +307,10 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Author
 
-**Sarvesh Kumar Sharma**
+**Shruti Saxena**
 
-- GitHub: [@shsarv](https://github.com/shsarv)
-- LinkedIn: [in/shsarv](https://linkedin.com/in/shsarv)
+- GitHub: [@Shruti](https://github.com/shrutisaxena0991-dev)
+
 
 ---
 
